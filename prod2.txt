@@ -1,0 +1,17 @@
+How to connect GITHUB repositery to VS code
+
+How to create a new repository in GITHUB
+
+git config --global user.name "PrajwalNP160"
+git config --global user.email "prajwalpatgar456@gmail.com"
+git clone https://github.com/PrajwalNP160/devops.git
+cd devops
+
+to add newly created file to repositery
+git add prod.txt
+
+git add .   (add everything)
+
+git commit -m "first commit" (to save data)
+
+git push origin main ( to push into the repositery)
