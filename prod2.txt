@@ -15,3 +15,7 @@ git add .   (add everything)
 git commit -m "first commit" (to save data)
 
 git push origin main ( to push into the repositery)
+
+git pill origin main
+
+finished
